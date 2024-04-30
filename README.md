@@ -28,9 +28,3 @@ Este repositório contém uma análise de dados sobre o perfil dos usuários do 
 
 ## Acesso ao Dashboard
 Você pode acessar o dashboard completo da análise da pesquisada no Power BI através do seguinte link: [Dashboard de Pesquisa](https://app.powerbi.com/view?r=eyJrIjoiMjE2YThmOGItNjMwYS00MmRjLTk2Y2QtNzZkYTBjODY5M2MxIiwidCI6IjBkOTg5NDA2LWFiODMtNDkwYy05MTdmLTg0NTk5YzI5ZDA0MiJ9)
-
-## Arquivos Disponíveis
-- Os arquivos de dados utilizados na análise estão disponíveis no diretório `Dados`.
-- O notebook Jupyter utilizado na análise está disponível no diretório `notebooks`.
-
-Sinta-se à vontade para explorar os dados e visualizações fornecidos neste repositório!
